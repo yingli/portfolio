@@ -1,5 +1,5 @@
-# portfolio
+# welcome
 
-My portfolio for showcasing data science life cycle.
+The purpose of this page is to showcase data science life cycle.
 
 This class covers the following module.
