@@ -9,6 +9,8 @@ This class covers the following components over a 16 weeks period:
 ** github
 ** jupyter
 
+anaconda reinstallation
+
 * project 1: EDA for actionable insights
 * project 2: modeling for production impact
 * project 3: applied research for problem solving
