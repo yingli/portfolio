@@ -11,8 +11,10 @@ This class covers the following components over a 16 weeks period:
 
 anaconda reinstallation
 
-* Notebook 5: EDA for actionable insights
-* Notebook 6: modeling for production impact
+* Notebook 5: [EDA for actionable insights](https://yingli.github.io/portfolio/NB05.pdf)
+* Notebook 6: [modeling for production impact](https://yingli.github.io/portfolio/NB06.html)
+
+
 
 
 
