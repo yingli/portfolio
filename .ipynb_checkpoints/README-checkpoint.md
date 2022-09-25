@@ -11,8 +11,10 @@ This class covers the following components over a 16 weeks period:
 
 anaconda reinstallation
 
-* Notebook 5: EDA for actionable insights
-* Notebook 6: modeling for production impact
+* project 1: EDA for actionable insights
+* project 2: modeling for production impact
+* project 3: applied research for problem solving
+* project 4: publishing
 
 
 
