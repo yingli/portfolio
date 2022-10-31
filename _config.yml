@@ -1,7 +1,7 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
-#title: Ying Li
-#description: portfolio for data science life cycle
+title: Ying Li
+description: portfolio for data science life cycle
 
 # Dependencies
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          0.0.0
 
 github:
-  repo:           https://github.com/uwescience/DSSG-website-template/
+  repo:           https://github.com/yingli/portfolio/
