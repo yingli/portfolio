@@ -1,4 +1,26 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
-title: Ying Li
-description: portfolio for data science life cycle
+#title: Ying Li
+#description: portfolio for data science life cycle
+
+# Dependencies
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            Ying Li's portfolio for data science life cycle
+tagline:          ''
+description:      'Data science life cycle projects' 
+url:              "https://yingli.github.io/portfolio"
+baseurl:          "/"
+
+
+paginate:         5
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://github.com/yingli/portfolio/
