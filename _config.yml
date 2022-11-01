@@ -1,5 +1,6 @@
 markdown: kramdown
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll
 title: Ying Li
 description: portfolio for data science life cycle
 
