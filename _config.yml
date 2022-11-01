@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 remote_theme: poole/hyde
+=======
+theme: minima
+#remote_theme: poole/hyde
+>>>>>>> 49a0cc12d7ad8ab0f5175ce63b328c5d66fb37d0
 
 # Dependencies
 markdown:         redcarpet
@@ -9,7 +14,10 @@ permalink:        pretty
 
 # Setup
 
+<<<<<<< HEAD
 #theme: jekyll-theme-minimal
+=======
+>>>>>>> 49a0cc12d7ad8ab0f5175ce63b328c5d66fb37d0
 
 title: Ying Li
 description: portfolio for data science life cycle
