@@ -13,8 +13,8 @@ permalink:        pretty
 # Setup
 tagline:          'hello'
 description:      'Data science life cycle projects' 
-url:              "https://yingli.github.io/portfolio"
-baseurl:          "/"
+url:              "https://yingli.github.io"
+baseurl:          "/portfolio"
 
 
 paginate:         5
