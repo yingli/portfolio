@@ -2,7 +2,6 @@
 layout: default
 ---
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/img/yingli_2.jpg">
 <sub>_Image credit: </sub>
 
 # welcome
