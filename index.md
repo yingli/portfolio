@@ -1,8 +1,4 @@
----
-layout: default
----
 
-<sub>_Image credit: </sub>
 
 # welcome
 
