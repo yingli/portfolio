@@ -1,8 +1,9 @@
+markdown: kramdown
 theme: jekyll-theme-minimal
-
 title: Ying Li
 description: portfolio for data science life cycle
 
+permalink:        pretty
 
 # Setup
 tagline:          'hello'
