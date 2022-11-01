@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 # welcome
 
 The purpose of this page is to showcase data science life cycle.
