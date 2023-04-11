@@ -1,5 +1,5 @@
-#theme: jekyll-theme-minimal
-remote_theme: daattali/beautiful-jekyll
+theme: jekyll-theme-minimal
+#remote_theme: daattali/beautiful-jekyll
 #remote_theme: mmistakes / minimal-mistakes
 markdown: kramdown
 title: Ying Li
