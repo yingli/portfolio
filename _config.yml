@@ -1,10 +1,9 @@
+---
 theme: jekyll-theme-minimal
-#remote_theme: daattali/beautiful-jekyll
-#remote_theme: mmistakes / minimal-mistakes
 markdown: kramdown
 title: Ying Li
-description: portfolio for data science life cycle
-
+description: portfolio for data science work and teaching
+---
 permalink:        pretty
 
 # Setup
